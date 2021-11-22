@@ -1,0 +1,11 @@
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\bin\Debug\ServerConfigMtk-P2-086.exe.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\bin\Debug\ServerConfigMtk-P2-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\bin\Debug\ServerConfigMtk-P2-086.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\bin\Debug\ServiceMtk-P1-NIM.dll
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\bin\Debug\ServiceMtk-P1-NIM.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\bin\Debug\ServiceMtk-P1-NIM.dll.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\obj\Debug\ServerConfigMtk-P2-086.csprojAssemblyReference.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\obj\Debug\ServerConfigMtk-P2-086.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\obj\Debug\ServerConfigMtk-P2-086.csproj.CopyComplete
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\obj\Debug\ServerConfigMtk-P2-086.exe
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 4\ServerConfigMtk-P2-086\ServerConfigMtk-P2-086\obj\Debug\ServerConfigMtk-P2-086.pdb
